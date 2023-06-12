@@ -19,7 +19,7 @@
             "#507dfc"
         ],
         "TEXT_NORMAL": [
-            "#ffffff"
+            "#ff0000"
         ],
         "TEXT_MUTED": [
             "#507dfc"
@@ -55,16 +55,16 @@
             "#507dfc"
         ],
         "BACKGROUND_FLOATING": [
-            "#ff0000"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#00ff00"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#0000ff"
+            "#000000"
         ],
         "BACKGROUND_MENTIONED": [
             "transparent"
@@ -79,7 +79,7 @@
             "#000000"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#ffff00"
+            "#000000"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
             "transparent"
