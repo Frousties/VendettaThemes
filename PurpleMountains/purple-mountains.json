@@ -5,6 +5,10 @@
         {
             "name": "Wizzy#0211",
             "id": "715443625580036128"
+        }, 
+        {
+            "name": "frousties#0000",
+            "id": "128584451738435584" 
         }
     ],
     "semanticColors": {
@@ -120,12 +124,7 @@
         "RED_560" : "#507dfc",
         "RED_400": "#507dfc"
     },
-    "spec": 2,
-    "background": {
-        "blur": 0.6,
-        "alpha": 0.5,
-        "color": "#000000"
-    }
+    "spec": 2
 }
 
 
