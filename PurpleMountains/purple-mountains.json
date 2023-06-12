@@ -22,12 +22,9 @@
             "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#507dfc"
+            "#b9cbfe"
         ],
         "TEXT_LINK": [
-            "#507dfc"
-        ],
-        "TEXT_DANGER": [
             "#507dfc"
         ],
         "INTERACTIVE_NORMAL": [
