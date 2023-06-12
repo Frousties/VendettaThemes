@@ -58,13 +58,13 @@
             "#00ff00"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#0000ff"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#00ffff"
+            "#000000"
         ],
         "BACKGROUND_MENTIONED": [
             "transparent"
