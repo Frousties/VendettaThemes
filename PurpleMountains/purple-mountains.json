@@ -37,16 +37,16 @@
             "#808080"
         ],
         "BACKGROUND_PRIMARY": [
-            "#000000"
+            "#00ff00"
         ],
         "BACKGROUND_SECONDARY": [
             "#2b2d31" 
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#000000"
+            "#2b2d31"
         ],
         "BACKGROUND_TERTIARY": [
-            "#000000"
+            "#ff0000"
         ],
         "BACKGROUND_ACCENT": [
             "#507dfc"
@@ -58,7 +58,7 @@
             "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000"
+            "#0000ff"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#000000"
