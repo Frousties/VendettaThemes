@@ -36,11 +36,13 @@
         "INTERACTIVE_HOVER": [
             "#ffffff"
         ],
+        "INTERACTIVE_ACTIVE": [
+            "
         "INTERACTIVE_MUTED": [
             "#808080"
         ],
         "BACKGROUND_PRIMARY": [
-            "#111317"
+            "#1E2024"
         ],
         "BACKGROUND_SECONDARY": [
             "#2b2d31" 
@@ -103,11 +105,11 @@
         "PRIMARY_300": "#ffffff",
         "PRIMARY_360": "#507dfc",
         "PRIMARY_500": "#507dfc",
-        "PRIMARY_600": "#000000",
-        "PRIMARY_630": "#000000",
-        "PRIMARY_660": "#000000",
-        "PRIMARY_700": "#000000",
-        "PRIMARY_800": "#000000",
+        "PRIMARY_600": "#111317",
+        "PRIMARY_630": "#111317",
+        "PRIMARY_660": "#111317",
+        "PRIMARY_700": "#111317",
+        "PRIMARY_800": "#111317",
         "BRAND_260": "#507dfc",
         "BRAND_360": "#507dfc",
         "BRAND_500": "#507dfc",
