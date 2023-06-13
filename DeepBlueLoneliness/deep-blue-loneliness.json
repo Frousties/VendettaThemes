@@ -40,13 +40,13 @@
             "#808080"
         ],
         "BACKGROUND_PRIMARY": [
-            "#1E2024"
+            "#ff0000"
         ],
         "BACKGROUND_SECONDARY": [
             "#2b2d31" 
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#383A3E"
+            "#45474B"
         ],
         "BACKGROUND_TERTIARY": [
             "#111317"
