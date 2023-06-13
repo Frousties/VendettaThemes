@@ -90,6 +90,9 @@
         "CHAT_BACKGROUND": [
             "#1E2024"
         ],
+        "CHAT_BORDER": [
+          "#00ffff"
+        ],
         "CHANNELS_DEFAULT": [
             "#c4c4c4"
         ],
