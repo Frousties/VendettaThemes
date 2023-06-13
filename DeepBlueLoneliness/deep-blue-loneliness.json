@@ -58,7 +58,7 @@
             "#1E2024"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#1E2024"
+            "#00ff00"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#1E2024"
@@ -106,7 +106,7 @@
         "PRIMARY_300": "#ffffff",
         "PRIMARY_360": "#507dfc",
         "PRIMARY_500": "#507dfc",
-        "PRIMARY_600": "#111317",
+        "PRIMARY_600": "#0000ff",
         "PRIMARY_630": "#111317",
         "PRIMARY_660": "#111317",
         "PRIMARY_700": "#111317",
