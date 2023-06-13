@@ -9,13 +9,9 @@
   ],
   "semanticColors": {
     "ACTIVITY_CARD_BACKGROUND": [
-      "#1e1f22",
-      "#ffffff",
       "#1e1f22"
     ],
     "ANDROID_NAVIGATION_BAR_BACKGROUND": [
-      "#0c0c0d",
-      "#f9f9f9",
       "#0c0c0d"
     ],
     "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
@@ -644,168 +640,102 @@
       "#0000004d"
     ],
     "PROFILE_GRADIENT_OVERLAY": [
-      "#00000099",
-      "#ffffff99",
       "#00000099"
     ],
     "PROFILE_GRADIENT_OVERLAY_SYNCED_WITH_USER_THEME": [
-      "#000000cc",
-      "#ffffffcc",
       "#000000cc"
     ],
     "PROFILE_GRADIENT_PROFILE_BODY_BACKGROUND_HOVER": [
-      "#ffffff29",
-      "#00000014",
       "#ffffff29"
     ],
     "PROFILE_GRADIENT_ROLE_PILL_BACKGROUND": [
-      "#23242880",
-      "#ffffff80",
       "#23242880"
     ],
     "PROFILE_GRADIENT_ROLE_PILL_BORDER": [
-      "#ffffff33",
-      "#23242833",
       "#ffffff33"
     ],
     "PROFILE_GRADIENT_SECTION_BOX": [
-      "#00000073",
-      "#ffffff73",
       "#00000073"
     ],
     "SCROLLBAR_AUTO_SCROLLBAR_COLOR_THUMB": [
-      "#1a1b1e",
-      "#dbdee1",
-      "#1e1f22"
+      "#1a1b1e"
     ],
     "SCROLLBAR_AUTO_SCROLLBAR_COLOR_TRACK": [
-      "#2b2d31",
-      "#f2f3f5",
       "#2b2d31"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#1a1b1e",
-      "#c4c9ce",
-      "#313338"
+      "#1a1b1e"
     ],
     "SCROLLBAR_AUTO_TRACK": [
-      "#2b2d31",
-      "#ebedef",
-      "#060607"
+      "#2b2d31"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#1a1b1e",
-      "#4e50584d",
-      "#1e1f22"
+      "#1a1b1e"
     ],
     "SCROLLBAR_THIN_TRACK": [
-      "#00000000",
-      "#00000000",
       "#00000000"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
-      "#1e1f22",
-      "#e3e5e8",
       "#1e1f22"
     ],
     "SPOILER_REVEALED_BACKGROUND": [
-      "#232428",
-      "#ebedef",
       "#232428"
     ],
     "STATUS_DANGER": [
-      "#f23f43",
-      "#da373c",
       "#f23f43"
     ],
     "STATUS_DANGER_BACKGROUND": [
-      "#f23f43",
-      "#da373c",
       "#f23f43"
     ],
     "STATUS_DANGER_TEXT": [
-      "#ffffff",
-      "#ffffff",
       "#ffffff"
     ],
     "STATUS_POSITIVE": [
-      "#23a55a",
-      "#24934e",
       "#23a55a"
     ],
     "STATUS_POSITIVE_BACKGROUND": [
-      "#248045",
-      "#248045",
       "#248045"
     ],
     "STATUS_POSITIVE_TEXT": [
-      "#ffffff",
-      "#ffffff",
       "#ffffff"
     ],
     "STATUS_WARNING": [
-      "#f0b232",
-      "#af7615",
       "#f0b232"
     ],
     "STATUS_WARNING_BACKGROUND": [
-      "#f0b232",
-      "#af7615",
       "#f0b232"
     ],
     "STATUS_WARNING_TEXT": [
-      "#000000",
-      "#ffffff",
       "#000000"
     ],
     "TEXT_BRAND": [
-      "#949cf7",
-      "#5865f2",
-      "#949cf7"
+      "#f00000"
     ],
     "TEXT_DANGER": [
-      "#fa777b",
-      "#a12829",
-      "#fa777b"
+      "#0f0000"
     ],
     "TEXT_LINK": [
-      "#00aafc",
-      "#006be7",
-      "#00aafc"
+      "#00f000"
     ],
     "TEXT_LINK_LOW_SATURATION": [
-      "#2eb6ff",
-      "#006be7",
-      "#2eb6ff"
+      "#000f00"
     ],
     "TEXT_MUTED": [
-      "#949ba4",
-      "#5c5e66",
-      "#a5abb3"
+      "#0000f0"
     ],
     "TEXT_NORMAL": [
-      "#dbdee1",
-      "#313338",
-      "#c4c9ce"
+      "#00000f"
     ],
     "TEXT_POSITIVE": [
-      "#2dc771",
-      "#248045",
-      "#2dc771"
+      "#ff0000"
     ],
     "TEXT_WARNING": [
-      "#f0b232",
-      "#9a650d",
-      "#f0b232"
+      "#00ff00"
     ],
     "TEXTBOX_MARKDOWN_SYNTAX": [
-      "#949ba4",
-      "#41434a",
-      "#949ba4"
+      "#0000ff"
     ],
     "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
-      "#1e1f2280",
-      "#ffffff80",
       "#1e1f2280"
     ]
   },
