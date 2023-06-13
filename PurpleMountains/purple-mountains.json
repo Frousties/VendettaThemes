@@ -30,6 +30,9 @@
         "INTERACTIVE_NORMAL": [
             "#dbdee1"
         ],
+        "INTERACTIVE_HOVER": [
+            "#ffffff"
+        ],
         "INTERACTIVE_ACTIVE": [
             "#507dfc"
         ],
