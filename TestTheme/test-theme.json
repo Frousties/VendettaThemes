@@ -18,9 +18,7 @@
       "#0c0c0d80"
     ],
     "ANDROID_RIPPLE": [
-      "#ffffff12",
-      "#0000001f",
-      "#ffffff12"
+      "#ffffff12" 
     ],
     "BACKGROUND_ACCENT": [
       "#ff0000"
@@ -83,53 +81,33 @@
       "#00ffff"
     ],
     "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
-      "#11121499",
-      "#ffffff99",
       "#11121499"
     ],
     "BUTTON_DANGER_BACKGROUND": [
-      "#da373c",
-      "#da373c",
       "#da373c"
     ],
     "BUTTON_DANGER_BACKGROUND_ACTIVE": [
-      "#8f2022",
-      "#8f2022",
       "#8f2022"
     ],
     "BUTTON_DANGER_BACKGROUND_DISABLED": [
-      "#da373c",
-      "#da373c",
       "#da373c"
     ],
     "BUTTON_DANGER_BACKGROUND_HOVER": [
-      "#a12829",
-      "#a12829",
       "#a12829"
     ],
     "BUTTON_OUTLINE_BRAND_BACKGROUND": [
-      "#ffffff00",
-      "#ffffff00",
       "#ffffff00"
     ],
     "BUTTON_OUTLINE_BRAND_BACKGROUND_ACTIVE": [
-      "#4752c4",
-      "#4752c4",
       "#4752c4"
     ],
     "BUTTON_OUTLINE_BRAND_BACKGROUND_HOVER": [
-      "#5865f2",
-      "#5865f2",
       "#5865f2"
     ],
     "BUTTON_OUTLINE_BRAND_BORDER": [
-      "#5865f2",
-      "#5865f2",
       "#5865f2"
     ],
     "BUTTON_OUTLINE_BRAND_BORDER_ACTIVE": [
-      "#4752c4",
-      "#4752c4",
       "#4752c4"
     ],
     "BUTTON_OUTLINE_BRAND_BORDER_HOVER": [
