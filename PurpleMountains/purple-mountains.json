@@ -13,13 +13,13 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#ffffff"
+            "#dbdee1"
         ],
         "HEADER_SECONDARY": [
             "#507dfc"
         ],
         "TEXT_NORMAL": [
-            "#ffffff"
+            "#dbdee1"
         ],
         "TEXT_MUTED": [
             "#b9cbfe"
@@ -28,10 +28,10 @@
             "#507dfc"
         ],
         "INTERACTIVE_NORMAL": [
-            "#ffffff"
+            "#dbdee1"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ffffff"
+            "#507dfc"
         ],
         "INTERACTIVE_MUTED": [
             "#808080"
@@ -46,7 +46,7 @@
             "#2b2d31"
         ],
         "BACKGROUND_TERTIARY": [
-            "#000000"
+            "#111317"
         ],
         "BACKGROUND_ACCENT": [
             "#507dfc"
@@ -89,9 +89,6 @@
         ],
         "CHANNELS_DEFAULT": [
             "#c4c4c4"
-        ],
-        "TEXT_LINK": [
-            "#507dfc"
         ],
         "CHANNEL_ICON": [
             "#ffffff"
