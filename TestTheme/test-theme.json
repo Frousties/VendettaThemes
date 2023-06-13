@@ -228,31 +228,31 @@
       "#6d6f78"
     ],
     "CHANNEL_ICON": [
-      "#80848e"
+      "#ff0000"
     ],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-      "#6d6f78"
+      "#00ff00"
     ],
     "CHANNELS_DEFAULT": [
-      "#949ba4"
+      "#0000ff"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#383a40"
+      "#ffff00"
     ],
     "CHAT_BACKGROUND": [
-      "#313338"
+      "#ff00ff"
     ],
     "CHAT_BORDER": [
-      "#1e1f22"
+      "#00ffff"
     ],
     "CHAT_INPUT_CONTAINER_BACKGROUND": [
-      "#313338"
+      "#3f0000"
     ],
     "CONTROL_BRAND_FOREGROUND": [
-      "#949cf7"
+      "#003f00"
     ],
     "CONTROL_BRAND_FOREGROUND_NEW": [
-      "#949cf7"
+      "#00003f"
     ],
     "DEPRECATED_CARD_BG": [
       "#1e1f2299"
