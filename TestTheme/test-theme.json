@@ -1,4 +1,12 @@
 {
+  "name": "Test Theme",
+  "description": "A simple theme to better visualize what variable impacts what.",
+  "authors": [
+    {
+      "name": "Frousties",
+      "id": "128584451738435584"
+    }
+  ],
   "semanticColors": {
     "ACTIVITY_CARD_BACKGROUND": [
       "#1e1f22",
