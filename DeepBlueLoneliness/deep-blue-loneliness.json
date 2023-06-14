@@ -67,7 +67,7 @@
             "#1E2024"
         ],
         "BACKGROUND_MENTIONED": [
-            "transparent"
+            "#2b2d31"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#1E2024"
@@ -79,7 +79,7 @@
             "#507dfc"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#1E2024"
+            "#111317"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
             "transparent"
