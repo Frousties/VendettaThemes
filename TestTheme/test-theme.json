@@ -27,10 +27,10 @@
       "#00ff00"
     ],
     "BACKGROUND_MENTIONED": [
-      "#0000ff1a"
+      "#00ff00ff"
     ],
     "BACKGROUND_MENTIONED_HOVER": [
-      "#3f000014"
+      "#3f0000ff"
     ],
     "BACKGROUND_MESSAGE_AUTOMOD": [
       "#003f000d"
