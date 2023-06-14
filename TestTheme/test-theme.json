@@ -63,7 +63,7 @@
       "#00ff004d"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#0000ff99"
+      "#0000ffff"
     ],
     "BACKGROUND_NESTED_FLOATING": [
       "#3f0000"
@@ -300,7 +300,7 @@
       "#f2f3f5"
     ],
     "HEADER_SECONDARY": [
-      "#b5bac1"
+      "#00ff00"
     ],
     "HOME_BACKGROUND": [
       "#282a2e"
