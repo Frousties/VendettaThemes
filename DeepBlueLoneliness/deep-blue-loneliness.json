@@ -79,10 +79,10 @@
             "#507dfc"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#111317"
+            "#45474B"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
-            "transparent"
+            "#111317"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":             [
             "#999999"
